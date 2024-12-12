@@ -47,6 +47,15 @@ pass: UJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk
 Password obtained by using "$" and the cat command to view the inner content of the webpage.
 
 Natas12
-pass: UJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk
+pass: yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeB
 Pass obtained by modifying cookies using burp suite. 
 
+Natas13
+Pass: trbs5pCjCrkuSknBBKHhaBxq6Wm1j3LC
+obtained by manipulating php code to view the webpage password. 
+
+Natas14
+Pass: z3UYcr4v4uBpeX8f7EZbMHlzK4UR2XtQ
+Obtained pass by using a maniuplating php code into a jpeg payload. 
+
+Natas 15
