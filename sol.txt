@@ -1,0 +1,52 @@
+Natas0
+<!--The password for natas1 is 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq -->
+Password found by viewing Page Source.
+
+Natas1
+0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
+Password found by pulling up develoer tools and reading the html code.  
+
+Natas2
+<!--The password for natas2 is TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI -->
+Found by viewing source code (html)
+
+Natas3
+3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
+Password found by examining a file called users.txt hidden within a png.
+
+Natas4
+Pass: QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
+Password found by viewing the robots.txt file of the Natas3 page
+
+Natas5
+Pass: 0n35PkggAPm2zbEpOU802c0x0Msn1ToK
+Obtained password by editing the webpage's referer using BurpSuite.
+
+Natas6 
+Pass: 0RoJwHdSKWFTYR5WuiAewauSuNaBXned
+Password obtained by modifying the packet request's cookie used for logging into Natas5.
+
+Natas7
+Pass: bmg8SvU1LizuWjx3y7xkNERkHxGre0GS
+Obtained by viewing the webpage source code, then inspecting the "secret.inc" files. 
+
+Natas8
+pass: xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q
+Password obtained by viewiing source code and pasting the "hint" into URL's page ID. 
+
+Natas9
+pass: ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t
+Obtained by obtaining a secret string from the source code, then puttinh it through a serious of transformations.
+
+Natas10
+Pass: t7I5VHvpa14sJTUGV0cbEsbYfFP2dmOu
+Obtainined by manipulating internal files by entering comamands into the textbox. 
+
+Natas11
+pass: UJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk
+Password obtained by using "$" and the cat command to view the inner content of the webpage.
+
+Natas12
+pass: UJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk
+Pass obtained by modifying cookies using burp suite. 
+
