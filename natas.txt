@@ -59,3 +59,13 @@ Pass: z3UYcr4v4uBpeX8f7EZbMHlzK4UR2XtQ
 Obtained pass by using a maniuplating php code into a jpeg payload. 
 
 Natas 15
+Pass: SdqIqBsFcz3yotlNYErZSZwblkm0lrvx
+obtained by uaing sql injection to manipulate the page into revealing the password
+
+Natas16
+Pass: hPkjKYviLQctEW33QmuXL6eDVfMW4sGo
+obtained by running a python script to brute force different password combos
+
+Natas17
+Pass: EqjHJbo7LFNb8vwhHb9s75hokh5TF0OC
+Got pass by using a python script to brute force the password from the directory
